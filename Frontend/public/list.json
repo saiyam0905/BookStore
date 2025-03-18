@@ -1,0 +1,165 @@
+[
+    {
+        "id":1,
+        "name": "The Vampire Diaries",
+        "title": "A gripping supernatural drama where love, rivalry, and ancient secrets unfold in the mysterious town of Mystic Falls, home to vampires, werewolves, and witches.",
+        "price":0,
+        "category": "Thriller",
+        "type":"Free",
+        "image":"https://w0.peakpx.com/wallpaper/462/844/HD-wallpaper-vampire-diaries-damon-salvatore-elena-gilbert-stefan-salvatore-tvd-thumbnail.jpg"
+    },
+    {
+        "id":2,
+        "name": "The Originals",
+        "title": "The Originals is a thrilling supernatural drama that follows the Mikaelson vampire family as they battle for power, family loyalty, and survival in New Orleans.",
+        "price":0,
+        "category": "Thriller",
+        "type":"Free",
+        "image":"https://picfiles.alphacoders.com/461/thumb-461403.jpg"
+    },
+    {
+        "id":3,
+        "name": "The night we Met",
+        "title": "A hauntingly beautiful song by Lord Huron, evoking memories of lost love and longing.",
+        "price":240,
+        "category": "Romance",
+        "type":"Paid",
+        "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db5c7ab2-8bbc-46c3-b2d6-e35b43f69e8d/dff7fi7-c6529712-7ae3-4eed-ab97-50602685601b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiNWM3YWIyLThiYmMtNDZjMy1iMmQ2LWUzNWI0M2Y2OWU4ZFwvZGZmN2ZpNy1jNjUyOTcxMi03YWUzLTRlZWQtYWI5Ny01MDYwMjY4NTYwMWIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yJzUFZAqaXdiWU4nXXI3iCQspfzMnpB-GgZbtMHdSjg"
+    },
+    {
+        "id":4,
+        "name": "Venom",
+        "title": "A dark, action-packed anti-hero film where journalist Eddie Brock bonds with an alien symbiote.",
+        "price":120,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed162770-2f03-44ba-aaf3-627380529206/d9cthrc-23f937af-3156-401f-9aaf-6b559b3c7648.jpg/v1/fill/w_1024,h_1449,q_75,strp/venom_movie_poster_by_rickcampelo_d9cthrc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0OSIsInBhdGgiOiJcL2ZcL2VkMTYyNzcwLTJmMDMtNDRiYS1hYWYzLTYyNzM4MDUyOTIwNlwvZDljdGhyYy0yM2Y5MzdhZi0zMTU2LTQwMWYtOWFhZi02YjU1OWIzYzc2NDguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ch390SE22R_wxl56HEa9DSlZOknJIPWAGvCt7xny3Ys"
+    },
+    {
+        "id":5,
+        "name": "The Notebook",
+        "title": " A timeless romantic drama about love, fate, and enduring devotion, based on Nicholas Sparks’ novel..",
+        "price":90,
+        "category": "Romance",
+        "type":"Paid",
+        "image":"https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id":6,
+        "name": "Fast and Furious ",
+        "title": " A high-octane action franchise centered around fast cars, daring heists, and the unbreakable bond of family.",
+        "price":1000,
+        "category": "Family",
+        "type":"Paid",
+        "image":"https://m.media-amazon.com/images/M/MV5BODJkMTQ5ZmQtNzQxYy00ZWNlLWI0ZGYtYjU1NzdiMjcyNDRmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id":7,
+        "name": "Tokio Drift",
+        "title": " A thrilling installment in the Fast & Furious series, featuring underground street racing in the neon-lit streets of Tokyo.",
+        "price":780,
+        "category": "Racing",
+        "type":"Paid",
+        "image":"https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id":8,
+        "name": "Stranger Things",
+        "title": "A nostalgic sci-fi thriller where a group of kids uncover government secrets, supernatural forces, and an alternate dimension known as the Upside Down.",
+        "price":0,
+        "category": "Thriller",
+        "type":"Free",
+        "image":"https://loyolamaroon.com/wp-content/uploads/2022/08/ST-Poster-Season-4-720x900.jpeg"
+    },
+    {
+        "id":9,
+        "name": "Teen Wolf",
+        "title": "A supernatural drama following Scott McCall, a teenager who transforms into a werewolf and navigates the challenges of high school and newfound abilities.",
+        "price":0,
+        "category": "Super-Naturals",
+        "type":"Free",
+        "image":"https://m.media-amazon.com/images/M/MV5BOGI0ZWU3ZDItNWQyMS00MDg4LTkxOGEtZTk4YzUxYTkzMzA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id":10,
+        "name": "Aaladin",
+        "title": " A magical adventure of love, courage, and wishes, where a street-smart hero discovers of a mischievous genie.",
+        "price":870,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://w0.peakpx.com/wallpaper/324/257/HD-wallpaper-aladdin-disney.jpg"
+    },
+    {
+        "id":11,
+        "name": "After",
+        "title": "A passionate and tumultuous love story where a college girl’s world is turned upside down mysterious rebellious bad boy.",
+        "price":560,
+        "category": "Romance",
+        "type":"Paid",
+        "image":"https://m.media-amazon.com/images/M/MV5BYmI3YWYwZDEtNmJmOS00ODU2LTg5NmYtMjM1N2U3ZjFlODdjXkEyXkFqcGc@._V1_.jpg"
+    },
+     {
+        "id":12,
+        "name": "To All the Boys...",
+        "title": "A charming teen romance where secret love letters turn a quiet girl's world upside down, leading to unexpected love and self-discovery.",
+        "price":900,
+        "category": "Romance",
+        "type":"Paid",
+        "image":"https://m.media-amazon.com/images/M/MV5BMjQ3NjM5MTAzN15BMl5BanBnXkFtZTgwODQzMDAwNjM@._V1_.jpg"
+    }, 
+    {
+        "id":13,
+        "name": "Life of Pie",
+        "title": "A breathtaking survival story of a boy stranded at sea with a Bengal tiger, exploring faith, resilience, and the wonders of nature.",
+        "price":960,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://covers.openlibrary.org/b/id/7890714-L.jpg"
+    }
+    ,
+     {
+        "id":14,
+        "name": "Legacies",
+        "title": "A supernatural journey at the Salvatore School, where young witches, vampires, and werewolves train to control their powers and embrace their destinies.",
+        "price":0,
+        "category": "Thriller",
+        "type":"Free",
+        "image":"https://m.media-amazon.com/images/M/MV5BZmMzYzYwMjItOWRiNi00NmU3LWI2ZjktOWFjYzI5ZmI4ZDI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }, 
+    {
+        "id":15,
+        "name": "SuperNatural",
+        "title": "Two brothers, Sam and Dean Winchester, hunt demons, ghosts, and monsters, unraveling dark family secrets in an epic battle between good and evil",
+        "price":0,
+        "category": "Thriller",
+        "type":"Free",
+        "image":"https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id":16,
+        "name": "Joker",
+        "title": "A haunting origin story of Gotham’s most infamous villain, exploring the thin line between sanity that turns its back on the broken.",
+        "price":2200,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://i.pinimg.com/736x/bd/fe/b1/bdfeb147efed7da7b560ea42607bd7ef.jpg"
+    },
+    {
+        "id":17,
+        "name": "The Strangers",
+        "title": "A chilling psychological horror where a couple's remote getaway turns into a terrifying fight for survival against masked intruders.",
+        "price":990,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2024/07/The-Strangers-Chapter-1-English-306x393.jpg"
+    },
+    {
+        "id":18,
+        "name": "Law Abiding Citizen",
+        "title": "A thrilling tale of justice and revenge, where a man takes the law into his own hands after the system fails to punish his family’s killers.",
+        "price":990,
+        "category": "Thriller",
+        "type":"Paid",
+        "image":"https://english.cdn.zeenews.com/sites/default/files/2025/01/28/1648159-untitled-design-41.png"
+    }
+]
